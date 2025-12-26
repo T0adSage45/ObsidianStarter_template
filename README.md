@@ -6,7 +6,7 @@ It is a **structure for thinking**.
 
 ---
 
-![[2_default.png]]
+![default](./1_Drawing/attachment/2_default.png)
 
 ## Philosophy
 
@@ -65,7 +65,7 @@ No structure required. Speed over order.
 
 * **Graph **
 
-![[graph.png]]
+![graph](./1_Drawing/attachment/graph.png)
 
 
 ### `1_Drawing/`
