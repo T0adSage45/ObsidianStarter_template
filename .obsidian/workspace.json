@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e7404dbda66627e5",
+        "id": "6c6acf235d058319",
         "type": "tabs",
         "children": [
           {
-            "id": "37b6efd0f58e6aba",
+            "id": "e5d4cb4f066914cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Home"
             }
           }
         ]
@@ -51,7 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 244.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "95a03ea9be9d46eb",
@@ -138,8 +139,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -148,8 +149,8 @@
             "state": {
               "type": "keep-the-rhythm",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "keep-the-rhythm"
+              "icon": "calendar-days",
+              "title": "Keep the Rhythm"
             }
           },
           {
@@ -209,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "55f7de452c746dc4",
@@ -222,16 +223,15 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,21 +242,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "keep-the-rhythm:Word Count Stats": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
+      "workspaces:Manage workspace layouts": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "37b6efd0f58e6aba",
+  "active": "e5d4cb4f066914cb",
   "lastOpenFiles": [
-    "1_Drawing/doodle.md",
     "README.md",
-    "Templates/bind_extender.md",
+    "1_Drawing/attachment/graph.png",
+    "1_Drawing/attachment/2_default.png",
+    "1_Drawing/attachment/1_default.png",
+    "1_Drawing/attachment/Screenshot_2025_12_26_at_22h27m23s.png",
+    "1_Drawing/attachment/Screenshot_2025_12_26_at_22h27m05s.png",
     "Home.md",
+    "4_journals/daily_journals/2025-12-26.md",
+    "1_Drawing/doodle.md",
+    "Templates/bind_extender.md",
     "3_Archives/binds/nvim_binds.md",
     "3_Archives/binds/obsidian_binds.md",
     "4_journals/daily_journals/2025-12-19.md",
@@ -278,8 +284,6 @@
     "2_Capture/fleeting/virsh.md",
     "2_Capture/fleeting/super-linter.md",
     "2_Capture/fleeting/spectroscopy.md",
-    "2_Capture/fleeting/C_lang.md",
-    "2_Capture/fleeting/beer_law.md",
     "2_Capture/Telegram",
     "4_journals/weekly_journals",
     "4_journals/daily_journals",

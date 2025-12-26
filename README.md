@@ -6,6 +6,8 @@ It is a **structure for thinking**.
 
 ---
 
+![[2_default.png]]
+
 ## Philosophy
 
 StarterVault follows a simple lifecycle:
@@ -60,6 +62,11 @@ Everything unprocessed goes here:
 No structure required. Speed over order.
 
 ---
+
+* **Graph **
+
+![[graph.png]]
+
 
 ### `1_Drawing/`
 The thinking space.
