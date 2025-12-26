@@ -1,0 +1,22 @@
+{
+  "promptDelete": false,
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "showIndentGuide": true,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "showUnsupportedFiles": false,
+  "autoConvertHtml": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "2_Capture/fleeting",
+  "userIgnoreFilters": [
+    "Templates/",
+    "4_journals/",
+    "1_Drawing/attacments/"
+  ],
+  "attachmentFolderPath": "1_Drawing/attacments",
+  "uriCallbacks": true
+}

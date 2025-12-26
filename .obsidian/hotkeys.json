@@ -1,0 +1,19 @@
+{
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "V"
+    }
+  ],
+  "editor:rename-heading": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F2"
+    }
+  ]
+}
