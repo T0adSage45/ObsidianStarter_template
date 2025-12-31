@@ -1,0 +1,38 @@
+{
+  "dualConfigs": true,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": "instant",
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "calendar": {
+        "startupType": "short"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-git": {
+        "startupType": "instant"
+      },
+      "obsidian-hypothesis-plugin": {
+        "startupType": "short"
+      },
+      "obsidian-kanban": {
+        "startupType": "short"
+      },
+      "periodic-notes": {
+        "startupType": "short"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
+      },
+      "telegram-sync": {
+        "startupType": "short"
+      }
+    }
+  }
+}

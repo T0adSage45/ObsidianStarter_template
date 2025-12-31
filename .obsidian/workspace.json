@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5a3ec89b93ee82da",
+        "id": "7e0b596e4bafcd80",
         "type": "tabs",
         "children": [
           {
-            "id": "171056c8a71276b3",
+            "id": "d43f97a54e27bb76",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "1_Drawing/doodle.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "doodle"
             }
           }
         ]
@@ -83,7 +85,6 @@
       {
         "id": "169504fc1cb7a5c3",
         "type": "tabs",
-        "dimension": 61.184210526315795,
         "children": [
           {
             "id": "0f9046afd1dc9f5a",
@@ -119,23 +120,13 @@
             }
           },
           {
-            "id": "94cbe5f6592f20ee",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "9110e17d7cad1878",
             "type": "leaf",
             "state": {
               "type": "keep-the-rhythm",
               "state": {},
-              "icon": "calendar-days",
-              "title": "Keep the Rhythm"
+              "icon": "lucide-ghost",
+              "title": "keep-the-rhythm"
             }
           },
           {
@@ -173,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "1_Drawing/doodle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of doodle"
             }
           },
           {
@@ -193,30 +184,24 @@
               "icon": "lucide-info",
               "title": "File properties for Home"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "55f7de452c746dc4",
-        "type": "tabs",
-        "dimension": 38.81578947368421,
-        "children": [
+          },
           {
-            "id": "a0eb3dede5ca4214",
+            "id": "8d96ee97ea0c8e33",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,29 +212,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "keep-the-rhythm:Word Count Stats": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
-      "workspaces:Manage workspace layouts": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "4fc98d6ea5044817",
+  "active": "d43f97a54e27bb76",
   "lastOpenFiles": [
+    "1_Drawing/doodle.md",
+    "4_journals/daily_journals/2026-01-01.md",
     "README.md",
     "Home.md",
     "1_Drawing/attachment/graph.png",
+    "3_Archives/binds/nvim_binds.md",
+    "3_Archives/binds/obsidian_binds.md",
     "1_Drawing/attachment/2_default.png",
     "1_Drawing/attachment/1_default.png",
     "1_Drawing/attachment/Screenshot_2025_12_26_at_22h27m23s.png",
     "1_Drawing/attachment/Screenshot_2025_12_26_at_22h27m05s.png",
     "4_journals/daily_journals/2025-12-26.md",
-    "1_Drawing/doodle.md",
     "Templates/bind_extender.md",
-    "3_Archives/binds/nvim_binds.md",
-    "3_Archives/binds/obsidian_binds.md",
     "4_journals/daily_journals/2025-12-19.md",
     "2_Capture/hypothesis/Brave Search.md",
     "2_Capture/fleeting/Untitled.md",

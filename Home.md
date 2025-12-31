@@ -1,9 +1,4 @@
-
-
-```ktr-heatmap
-
-```
-
+![[graph.png]]
 
 ##### - [[doodle | Drawings]]
 

@@ -1,4 +1,6 @@
 {
+  "copyLinkToElemenetAnchorTo100": false,
+  "copyFrameLinkByName": false,
   "disableDoubleClickTextEditing": true,
   "folder": "1_Drawing",
   "cropFolder": "",
@@ -109,7 +111,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.17.2",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.18.3",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -4426,13 +4428,19 @@
             ],
             "startBinding": {
               "elementId": "v6Va9v7pPEZlIseg4I5-P",
-              "focus": 0.03340258771227226,
-              "gap": 9.092720869612094
+              "mode": "orbit",
+              "fixedPoint": [
+                0.5167012938561147,
+                0.5167012938561263
+              ]
             },
             "endBinding": {
               "elementId": "4v7_zzVP1Dy82NZ-1uOJA",
-              "focus": 2.456132592376039,
-              "gap": 8.206444049758204
+              "mode": "orbit",
+              "fixedPoint": [
+                0.006397616511550681,
+                -0.7695894273260176
+              ]
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -4571,13 +4579,19 @@
             ],
             "startBinding": {
               "elementId": "v6Va9v7pPEZlIseg4I5-P",
-              "focus": 3.2890502365576073,
-              "gap": 9.417440996672383
+              "mode": "orbit",
+              "fixedPoint": [
+                1.87984397957172,
+                2.1515336873737807
+              ]
             },
             "endBinding": {
               "elementId": "XvgnFmIr4PMT1Qk0RiI3a",
-              "focus": -0.1328247803196256,
-              "gap": 14.942126305195984
+              "mode": "orbit",
+              "fixedPoint": [
+                1.5962777728956332,
+                0.5720129896854695
+              ]
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -4704,13 +4718,19 @@
             ],
             "startBinding": {
               "elementId": "_TRhwQYRY54mP65DjT5SA",
-              "focus": -1.3793878506756339,
-              "gap": 5.390822366955263
+              "mode": "orbit",
+              "fixedPoint": [
+                0.0957629427351689,
+                -0.1926925239785908
+              ]
             },
             "endBinding": {
               "elementId": "Toh85IWAiw9HabPMv8s85",
-              "gap": 1.355493879007847,
-              "focus": 0.08999325624637074
+              "mode": "inside",
+              "fixedPoint": [
+                0.005583820004544411,
+                0.5316091890263636
+              ]
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -6162,13 +6182,19 @@
             ],
             "startBinding": {
               "elementId": "pox47NS3FC9ABkChfXJMH",
-              "focus": 1.5746714835694358,
-              "gap": 9.084720379804452
+              "mode": "orbit",
+              "fixedPoint": [
+                1.0882267190595197e-8,
+                1.287335741784717
+              ]
             },
             "endBinding": {
               "elementId": "Y9GmviCvklfymeDZK1mZq",
-              "gap": 2.4986588812855737,
-              "focus": -0.9714757846993713
+              "mode": "orbit",
+              "fixedPoint": [
+                0.5001,
+                0.9857378923496943
+              ]
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -6425,8 +6451,11 @@
             ],
             "startBinding": {
               "elementId": "6QIcBleuO98WvymKt4gbA",
-              "focus": 0.24472012017708752,
-              "gap": 1.0429565441458966
+              "mode": "orbit",
+              "fixedPoint": [
+                0.5001,
+                0.7158433561673224
+              ]
             },
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -6476,13 +6505,19 @@
             ],
             "startBinding": {
               "elementId": "6QIcBleuO98WvymKt4gbA",
-              "focus": -0.05630840266133614,
-              "gap": 1
+              "mode": "orbit",
+              "fixedPoint": [
+                0.8443622222992652,
+                0.5001
+              ]
             },
             "endBinding": {
               "elementId": "6vQTtRixzyLa3xqqquvtF",
-              "focus": 0.05904577717458523,
-              "gap": 1
+              "mode": "orbit",
+              "fixedPoint": [
+                0.5001,
+                0.4703779441822982
+              ]
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -6531,13 +6566,19 @@
             ],
             "startBinding": {
               "elementId": "6QIcBleuO98WvymKt4gbA",
-              "focus": -0.08869372840676369,
-              "gap": 1
+              "mode": "orbit",
+              "fixedPoint": [
+                0.5001,
+                0.42651358478503515
+              ]
             },
             "endBinding": {
               "elementId": "-XwvH_bzr33Otu49wlGel",
-              "focus": -0.09679793421698195,
-              "gap": 1
+              "mode": "orbit",
+              "fixedPoint": [
+                0.5001,
+                0.5802010842660293
+              ]
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -32866,13 +32907,19 @@
             ],
             "startBinding": {
               "elementId": "Y4RixvHJ1tqL0rCIR3Ada",
-              "focus": 2.201912529854917,
-              "gap": 12.01912529854917
+              "mode": "orbit",
+              "fixedPoint": [
+                -0.6009562649274316,
+                1.6009562649274585
+              ]
             },
             "endBinding": {
               "elementId": "LOJI73TNxg1f4SHjSUP8n",
-              "focus": -2.201912529854917,
-              "gap": 12.01912529854917
+              "mode": "orbit",
+              "fixedPoint": [
+                0.4516845134920505,
+                1.6009562649274585
+              ]
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -33370,13 +33417,19 @@
             ],
             "startBinding": {
               "elementId": "5uhT6aK_EpcsmkIfaVwCN",
-              "focus": 2.2019125298549174,
-              "gap": 12.01912529854917
+              "mode": "orbit",
+              "fixedPoint": [
+                0,
+                1.6009562649274585
+              ]
             },
             "endBinding": {
               "elementId": "ydRun-y2X3swBHz0TjbhB",
-              "focus": -2.201912529854917,
-              "gap": 12.01912529854917
+              "mode": "orbit",
+              "fixedPoint": [
+                0.4516845134920505,
+                1.6009562649274585
+              ]
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -34063,13 +34116,19 @@
             ],
             "startBinding": {
               "elementId": "1FaWZpwyHz85aZJFYK8Ox",
-              "focus": 2.0344466559279226,
-              "gap": 10.344466559279226
+              "mode": "orbit",
+              "fixedPoint": [
+                0,
+                1.5172233279639613
+              ]
             },
             "endBinding": {
               "elementId": "X8rN7SVHkWMKDRC5H-L8F",
-              "focus": -2.1682884430502325,
-              "gap": 11.682884430502327
+              "mode": "orbit",
+              "fixedPoint": [
+                0.446612199929945,
+                1.5841442215251162
+              ]
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -43208,7 +43267,7 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "previousRelease": "2.17.2",
+  "previousRelease": "2.18.3",
   "showReleaseNotes": true,
   "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,

@@ -32,7 +32,6 @@ The goal is sustainability over novelty.
 ├── 3_Archives/
 ├── 4_journals/
 ├── .obsidian/
-├── .keep-the-rhythm/
 └── .gitignore
 
 ```
